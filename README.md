@@ -26,7 +26,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/USERNAME/repo-name.git
    ```
 3. Install NPM packages
    ```sh
@@ -70,7 +70,5 @@ Don't forget to give the project a star! Thanks again!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/tylerjusfly/atlas-hackathon.svg?style=for-the-badge
-[contributors-url]: https://github.com/tylerjusfly/atlas-hackathon/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tylerjusfly/atlas-hackathon.svg?style=for-the-badge
+[contributors-url]: https://github.com/farukade/league_mgmt/graphs/contributors
 [issues-url]: https://github.com/tylerjusfly/atlas-hackathon/issues
-
